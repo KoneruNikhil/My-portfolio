@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-image:url('exp3.jpgs');
+    background-size:100% 100%;
+    }
+    .container{
+    margin-top: 160px;
+    width: 700px;
+    height: 450px;
+    display: flex;
+    background-color:#6f6fef;
+    border: 2px solid rgb(70, 48, 48);
+    border-radius: 20px;
+    }
+    .info{
+    color: black;
+    position: relative;
+    padding: 30px;
+    line-height: 30px;
+    left:18px;
+    top: 3px;
+    }
+    h1{
+    position:relative;
+    left:450px;
+    top:30px;
+    }
+    
